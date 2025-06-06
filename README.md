@@ -9,7 +9,7 @@ This project uses publicly available data from the [Canadian Institute for Healt
 This project visualizes and analyzes hospital resource utilization across Canadian provinces using Excel and Tableau. The focus is on key metrics such as total number of beds available, average occupancy rates, and comparisons between teaching and non-teaching hospitals.
 
 
-****Objective**
+**Objective**
 
 •	Understand healthcare capacity trends in Canada
 •	Highlight underutilized and overburdened hospitals
