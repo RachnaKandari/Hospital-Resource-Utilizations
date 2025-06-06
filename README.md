@@ -22,7 +22,9 @@ This project visualizes and analyzes hospital resource utilization across Canadi
 **Tools and Technologies**
 
 •	Excel: Data cleaning, pivot tables, slicers, charts
+
 •	Tableau Public: Interactive Dashboard visualization 
+
 •	GitHub: Version control and portfolio presentation
 
 **Files Included**
