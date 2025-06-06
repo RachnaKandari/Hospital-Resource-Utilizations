@@ -12,9 +12,13 @@ This project visualizes and analyzes hospital resource utilization across Canadi
 **Objective**
 
 •	Understand healthcare capacity trends in Canada
+
 •	Highlight underutilized and overburdened hospitals
+
 •	Provide insights for public health policy decisions
+
 •	Practice Excel pivot tables, conditional formatting and Tableau dashboards
+
 **Tools and Technologies**
 
 •	Excel: Data cleaning, pivot tables, slicers, charts
