@@ -27,33 +27,46 @@ This project visualizes and analyzes hospital resource utilization across Canadi
 
 **Files Included**
 
-•	Hospital Resource Utilization Dashboard – 2022-2023.xlsx
+•	Hospital Resource Utilization Dashboard – 2022-2023.xlsx 
+
 •	Tableau dashboard.twbx
+
 •	Excel Dashboard Summary.pdf
+
 •	Tableau dashboard.pdf
+
 •	Tableau Dashboard Summary.pdf
 
 **Key Features**
 
 •	Pivot table analysis by hospital type and province
+
 •	Conditional formatting to flag low occupancy
+
 •	Slicers for interactive filtering (Teaching Status, Province)
+
 •	Tableau dashboard comparing hospital-level vs province-level performance
 
 **Key Insights**
 
 •	Some provinces show consistently low occupancy, needing review
+
 •	Teaching hospitals tend to have higher occupancy rates
+
 •	Visualization helps pinpoint regional imbalances in healthcare resources
 
 **Learnings**
 
 •	Improved skills in Excel dashboard design and interactivity
+
 •	Learned to connect calculated fields and filters in Tableau
+
 •	Practiced storytelling using health data for real-world decisions
 
 **How to View**
 
 •	Excel dashboards: Open `.xlsx` and use slicers to filter by Province or Teaching Status
-•	OTableau Dashboard: View interactive version [https://public.tableau.com/app/profile/rachna.kandari/viz/Tableaudashboard_17491796141590/Dashboard1]
+
+•	Tableau Dashboard: View interactive version [https://public.tableau.com/app/profile/rachna.kandari/viz/Tableaudashboard_17491796141590/Dashboard1]
+
 •	View the exported dashboard as a PDF in the `exports/` folder
