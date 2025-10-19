@@ -66,3 +66,9 @@ Analyze hospital bed utilization across Canadian provinces using **Excel** and *
 **Rachna Kandari**  
 📧 kandari.rachna74@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/rachna-kandari/)  
 📅 Updated October 2025  🪪 License MIT
+---
+
+<p align="center">
+  <b>📊 Created by <a href="https://www.linkedin.com/in/rachna-kandari/">Rachna Kandari</a> — Data Analytics Portfolio Project</b><br>
+  © 2025 | Hospital Resource Utilization Dashboard (Canada)
+</p>
