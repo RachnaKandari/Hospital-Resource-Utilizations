@@ -38,7 +38,8 @@ Analyze hospital bed utilization across Canadian provinces using **Excel** and *
 - **3 provinces** fall below 70 % utilization → potential resource reallocation.  
 - **Non-teaching** facilities show higher variance in utilization rates.
 
-🔗 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/rachna.kandari/viz/HospitalResourceUtilization2022-23/Dashboard1)
+🔗 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/rachna.kandari/viz/Tableaudashboard_17491796141590/Dashboard1?showOnboarding=true)
+
 
 ---
 
