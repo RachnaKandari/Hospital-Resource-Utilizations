@@ -1,6 +1,9 @@
 # 🏥 Hospital Resource Utilization Dashboard (Canada 2022–2023)
 
-![Dashboard Preview](assets/preview.png)
+<p align="center">
+  <img src="assets/preview.png" alt="Hospital Resource Utilization Dashboard" width="90%">
+</p>
+
 
 ## 🎯 Project Overview
 Analyze hospital bed utilization across Canadian provinces using **Excel** and **Tableau** to identify under- and over-utilized regions and compare teaching vs non-teaching hospitals.
