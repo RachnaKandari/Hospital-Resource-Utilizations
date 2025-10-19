@@ -4,10 +4,11 @@
   <img src="assets/preview.png" alt="Hospital Resource Utilization Dashboard" width="90%">
 </p>
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/rachna.kandari/viz/HospitalResourceUtilization2022-23/Dashboard1" target="_blank">
+  <a href="https://public.tableau.com/app/profile/rachna.kandari/viz/Tableaudashboard_17491796141590/Dashboard1?showOnboarding=true" target="_blank">
     <img src="https://img.shields.io/badge/View%20Dashboard-0066CC?style=for-the-badge&logo=tableau&logoColor=white" alt="View Tableau Dashboard">
   </a>
 </p>
+
 
 
 ## 🎯 Project Overview
