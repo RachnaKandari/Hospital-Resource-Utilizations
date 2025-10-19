@@ -61,5 +61,5 @@ Analyze hospital bed utilization across Canadian provinces using **Excel** and *
 
 ## 👩‍💻 Author
 **Rachna Kandari**  
-📧 [your email here] | [LinkedIn Profile](https://www.linkedin.com/in/rachna-kandari/)  
+📧 kandari.rachna74@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/rachna-kandari/)  
 📅 Updated October 2025  🪪 License MIT
