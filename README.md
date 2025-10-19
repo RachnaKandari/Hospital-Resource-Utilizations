@@ -1,74 +1,65 @@
-# Hospital-Resource-Utilizations
-Analyzing hospital bed occupancy trends across Canadian provinces using Excel and Table
+# 🏥 Hospital Resource Utilization Dashboard (Canada 2022–2023)
 
-**Data Source**
-This project uses publicly available data from the [Canadian Institute for Health Information (CIHI)](https://www.cihi.ca/en/hospital-beds-staffed-and-in-operation-2022-2023).
+![Dashboard Preview](assets/preview.png)
 
+## 🎯 Project Overview
+Analyze hospital bed utilization across Canadian provinces using **Excel** and **Tableau** to identify under- and over-utilized regions and compare teaching vs non-teaching hospitals.
 
-**Overview**
-This project visualizes and analyzes hospital resource utilization across Canadian provinces using Excel and Tableau. The focus is on key metrics such as total number of beds available, average occupancy rates, and comparisons between teaching and non-teaching hospitals.
+---
 
+## 🧩 Tools Used
+- **Excel** – data cleaning and slicer-based dashboard  
+- **Tableau** – interactive KPI visualizations  
+- **CIHI (Canadian Institute for Health Information)** – official dataset source
 
-**Objective**
+---
 
-•	Understand healthcare capacity trends in Canada
+## 📊 Key Performance Indicators (KPIs)
 
-•	Highlight underutilized and overburdened hospitals
+| Metric | Formula | Insight |
+|---------|----------|----------|
+| **Occupancy Rate** | Inpatient Days ÷ (Staffed Beds × Days) | Measures resource use |
+| **Underutilized Hospitals** | Occupancy < 70 % | Possible excess capacity |
+| **Overburdened Hospitals** | Occupancy > 90 % | Possible bed shortage |
 
-•	Provide insights for public health policy decisions
+---
 
-•	Practice Excel pivot tables, conditional formatting and Tableau dashboards
+## 💡 Insights Summary
+- Teaching hospitals show **higher average occupancy** across provinces.  
+- **3 provinces** fall below 70 % utilization → potential resource reallocation.  
+- **Non-teaching** facilities show higher variance in utilization rates.
 
-**Tools and Technologies**
+🔗 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/rachna.kandari/viz/HospitalResourceUtilization2022-23/Dashboard1)
 
-•	Excel: Data cleaning, pivot tables, slicers, charts
+---
 
-•	Tableau Public: Interactive Dashboard visualization 
+## 🗂️ Project Structure
 
-•	GitHub: Version control and portfolio presentation
+| Folder | Description |
+|---------|-------------|
+| `excel/` | Excel dashboard file |
+| `tableau/` | Tableau packaged workbook (.twbx) |
+| `docs/` | PDF summaries |
+| `data/` | Sample or reference data |
+| `assets/` | Images & screenshots |
 
-**Files Included**
+---
 
-•	Hospital Resource Utilization Dashboard – 2022-2023.xlsx 
+## 📘 Data Source
+- **Canadian Institute for Health Information (CIHI)**  
+- Dataset : Hospital Resource Utilization FY 2022–2023  
+- Used for educational and analytical purposes only.
 
-•	Tableau dashboard.twbx
+---
 
-•	Excel Dashboard Summary.pdf
+## 🧠 Future Improvements
+- Automate data updates with Tableau Prep  
+- Integrate Python ETL pipeline  
+- Add multi-year trend comparison
 
-•	Tableau dashboard.pdf
+---
 
-•	Tableau Dashboard Summary.pdf
-
-**Key Features**
-
-•	Pivot table analysis by hospital type and province
-
-•	Conditional formatting to flag low occupancy
-
-•	Slicers for interactive filtering (Teaching Status, Province)
-
-•	Tableau dashboard comparing hospital-level vs province-level performance
-
-**Key Insights**
-
-•	Some provinces show consistently low occupancy, needing review
-
-•	Teaching hospitals tend to have higher occupancy rates
-
-•	Visualization helps pinpoint regional imbalances in healthcare resources
-
-**Learnings**
-
-•	Improved skills in Excel dashboard design and interactivity
-
-•	Learned to connect calculated fields and filters in Tableau
-
-•	Practiced storytelling using health data for real-world decisions
-
-**How to View**
-
-•	Excel dashboards: Open `.xlsx` and use slicers to filter by Province or Teaching Status
-
-•	Tableau Dashboard: View interactive version [https://public.tableau.com/app/profile/rachna.kandari/viz/Tableaudashboard_17491796141590/Dashboard1]
-
-•	View the exported dashboard as a PDF in the `exports/` folder
+## 👩‍💻 Author
+**Rachna Kandari**  
+📧 [your email here] | [LinkedIn Profile](https://www.linkedin.com/in/rachna-kandari/)  
+📅 Updated October 2025  🪪 License MIT
